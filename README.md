@@ -1,4 +1,4 @@
-# ANN-Based-Forward
+# ANN-Based Forward Modeling
 
 ## This is the companion MATLAB code of the paper by Moghadas JAG 2020 (see reference below). 
 
