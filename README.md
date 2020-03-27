@@ -12,10 +12,6 @@ ANN_Training: program to to train ANN to create proxy forward modeling.
 
 Moghadas, D., Behroozmand, A.A., Christiansen, A.V., 2020, Soil electrical conductivity imaging using a neural network-based forward solver: applied to large-scale Bayesian electromagnetic inversion, Journal of Applied Geophysics.
 
-## License
-
-MIT 
-
 ## Contact
 
 Davood Moghadas (moghadas@b-tu.de)
