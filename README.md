@@ -6,9 +6,9 @@ This code contains the following scripts:
 
 MK_ANN_Data: program to read training models and split data for ANN training.
 
-ANN_Training: program to to train ANN to create proxy forward modeling.
+ANN_Training: program to train ANN to create proxy forward modeling.
 
-Simulation: program to calculate EMI forward response from ANN-based forward model
+Simulation: program to calculate EMI forward response from ANN-based forward model.
 
 ## Reference
 
