@@ -12,7 +12,7 @@ Simulation: program to calculate EMI forward response from ANN-based forward mod
 
 ## Reference
 
-Moghadas, D., Behroozmand, A.A., Christiansen, A.V., 2020, Soil electrical conductivity imaging using a neural network-based forward solver: applied to large-scale Bayesian electromagnetic inversion, Journal of Applied Geophysics.
+Moghadas, D., Behroozmand, A.A., Christiansen, A.V., 2020, Soil electrical conductivity imaging using a neural network-based forward solver: Applied to large-scale Bayesian electromagnetic inversion, Journal of Applied Geophysics, DOI: 10.1016/j.jappgeo.2020.104012
 
 ## Contact
 
